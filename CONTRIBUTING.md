@@ -1,6 +1,6 @@
 # Contributing to asciinema
 
-First, if you're opening a Github issue make sure it goes to the correct repository:
+##First, if you're opening a Github issue make sure it goes to the correct repository:
 
 * [asciinema/asciinema](https://github.com/asciinema/asciinema/issues) - command-line recorder
 * [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server/issues) - public website hosting recordings
